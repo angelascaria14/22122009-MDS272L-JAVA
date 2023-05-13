@@ -16,3 +16,6 @@ Identify if the employee belongs to the top MNC Companies (Facebook, Google, Mic
 
  Here we used the help of if - else functions to find whether the gender of the candidate is male or female .
  Also we used the help of switch function to identify the locality of the candidate so that we can assign the work in that respective locality.
+ 
+ Flowchart:
+ ![lab1](https://github.com/angelascaria14/22122009-MDS272L-JAVA/assets/118044665/f6b766d8-2121-4c81-8477-017cb0906fb1)
