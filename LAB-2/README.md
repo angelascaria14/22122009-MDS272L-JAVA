@@ -21,5 +21,3 @@ Provide necessary validations that the user enters only valid names that are not
 Removing a name should not create empty space inside the array!
 Format your results properly!!
 
-Flowchart:
-![LAB2 Flowchart](https://github.com/angelascaria14/22122009-MDS272L-JAVA/assets/118044665/6246f83d-ca8d-49d3-a0c2-1afd0d7420e6)
